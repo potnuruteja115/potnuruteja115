@@ -188,3 +188,27 @@ const teja = {
 <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="250"/>
 
 </div>
+
+## Extra Value Added [🔝](#--gifs-for-readme--)
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### Let's Catch
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="350">
+
+</td>
+
+<td align="center">
+
+### Pacman
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+
+</td>
+</tr>
+</table>
+
+</div>
