@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=200&section=header&text=PotnuruTeja&fontSize=80&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:00FF87&height=200&section=header&text=PotnuruTeja&fontSize=80&fontColor=fff"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=Data+Science+Student;Python+Developer;Machine+Learning+Learner;DSA+Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
